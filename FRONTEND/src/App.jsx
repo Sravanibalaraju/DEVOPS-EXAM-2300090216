@@ -1,4 +1,4 @@
-import VoterApp from './Voterapp'; // Ensure this path is correct
+import VoterApp from './VoterApp'; // Ensure this path is correct
 
 
 
