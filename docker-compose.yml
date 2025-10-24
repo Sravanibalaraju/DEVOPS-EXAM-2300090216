@@ -21,7 +21,7 @@ services:
     image: sravanibalaraju/90216-exam-backend:latest
     container_name: springboot
     ports:
-      - "2025:2000"
+      - "2025:2001"
     depends_on:
       mysqldb:
         condition: service_healthy
