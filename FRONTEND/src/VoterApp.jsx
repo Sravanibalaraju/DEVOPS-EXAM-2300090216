@@ -19,7 +19,7 @@ import {
 import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function VoterApp() {
-  // Updated backend port to 2025
+
   const baseUrl = `http://localhost:2025`; 
   const [voter, setVoter] = useState({
     id: "",

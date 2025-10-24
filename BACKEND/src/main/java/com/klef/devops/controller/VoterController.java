@@ -18,7 +18,7 @@ import com.klef.devops.repository.VoterRepo;
 import com.klef.devops.service.VoterServiceImpl;
 
 @RestController
-@CrossOrigin(origins ="*")
+@CrossOrigin(origins = "http://localhost:3001")
 public class VoterController {
 	
 	@Autowired
