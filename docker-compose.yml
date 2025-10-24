@@ -38,7 +38,7 @@ services:
       - spring.jpa.show-sql=true
       - spring.jpa.properties.hibernate.format_sql=true
       - spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
-      - server.port=2008
+      - server.port=2000
 
   frontend:
     image: sravanibalaraju/90216-exam-frontend:latest
