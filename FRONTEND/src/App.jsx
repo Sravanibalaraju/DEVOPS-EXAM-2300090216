@@ -1,4 +1,6 @@
-import VoterApp from "./Voterapp"
+import Voterapp from './Voterapp'; // Ensure this path is correct
+
+
 
 
 function App() {
